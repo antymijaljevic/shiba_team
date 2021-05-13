@@ -1,6 +1,3 @@
-//remove existing cache
-localStorage.clear()
-
 //init class
 const SHIBprice = new SHIB();
 const ui = new UI();
