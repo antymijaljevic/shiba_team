@@ -3,11 +3,12 @@ class UI{
         this.eurPrice = document.getElementById('euro');   
         this.elemUsers = document.getElementById('users');
         this.userCoins = [
-            {Name: 'Ante', Amount: 34_972_401.5},
+            {Name: 'Ante', Amount: 48_552_853.5},
             {Name: 'Asier', Amount:  13_756_032.19},
             {Name: 'Husein', Amount: 12_152_224.7},
             {Name: 'Combo', Amount:  7_244_406.43},
             {Name: 'Luka', Amount:  24_884_798.0},
+            {Name: 'Tomas', Amount:  0},
         ]
 
         this.userCoins.sort((user1, user2) => user2.Amount - user1.Amount);
