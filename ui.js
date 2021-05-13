@@ -16,16 +16,16 @@ class UI{
 
         this.getRank = function(amount) {
             if (amount > 1000) {
-                return 'General'
+                return 'House Owner'
             }
             if (amount >= 500 && amount < 1000) {
-                return 'Lieutenant'
+                return 'Private Room Guest'
             }
             if (amount >= 240 && amount < 500) {
-                return 'Sergeant'
+                return 'Mixed Dorm Guest'
             }
 
-            return 'Private'
+            return 'Cave Man'
         }
     }
 
