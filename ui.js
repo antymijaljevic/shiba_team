@@ -3,9 +3,9 @@ class UI{
         this.eurPrice = document.getElementById('euro');   
         this.elemUsers = document.getElementById('users');
         this.userCoins = [
-            {Name: 'Ante', Amount: 67_084_536.5},
+            {Name: 'Ante', Amount: 101_519_624.2},
             {Name: 'Asier', Amount:  13_756_032.19},
-            {Name: 'Husein', Amount: 12_152_224.7},
+            {Name: 'Husein', Amount: 78_949_930.4},
             {Name: 'Combo', Amount:  7_244_406.43},
             {Name: 'Luka', Amount:  24_884_798.0},
             {Name: 'Tomas', Amount:  0},
