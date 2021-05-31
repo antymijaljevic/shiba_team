@@ -4,7 +4,7 @@ class UI{
         this.elemUsers = document.getElementById('users');
         this.userCoins = [
             {Name: 'Ante', Amount: 101_519_624.2},
-            {Name: 'Asier', Amount:  13_756_032.19},
+            {Name: 'Asier', Amount:  22_556_250.55},
             {Name: 'Husein', Amount: 100_000_000.00},
             {Name: 'Combo', Amount:  7_244_406.43},
             {Name: 'Luka', Amount:  24_884_798.0},
