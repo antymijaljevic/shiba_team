@@ -5,7 +5,7 @@ class UI{
         this.userCoins = [
             {Name: 'Ante', Amount: 101_519_624.2},
             {Name: 'Asier', Amount:  22_556_250.55},
-            {Name: 'Husein', Amount: 100_000_000.00},
+            {Name: 'Husein', Amount: 128_833_681.16},
             {Name: 'Combo', Amount:  7_244_406.43},
             {Name: 'Luka', Amount:  41_837_276.0},
             {Name: 'Rocio', Amount:  13_723_714.0},
